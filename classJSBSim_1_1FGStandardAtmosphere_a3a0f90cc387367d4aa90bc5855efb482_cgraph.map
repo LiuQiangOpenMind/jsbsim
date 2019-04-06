@@ -1,0 +1,5 @@
+<map id="CalculateDensityAltitude" name="CalculateDensityAltitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#aceb723bd1ff84e031529921a02d5c788" title="Convert a geopotential altitude to a geometric altitude. " alt="" coords="232,5,371,32"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#a482d47f6fbb82b2ccfb16fa85bd21fa5" title="Calculates the pressure altitude given any temperature or pressure bias. " alt="" coords="419,5,605,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#adae3ed16af6092c17c0cb5bf79f1b6f3" title="Calculate the pressure of water vapor with the Magnus formula. " alt="" coords="425,56,599,83"/>
+</map>

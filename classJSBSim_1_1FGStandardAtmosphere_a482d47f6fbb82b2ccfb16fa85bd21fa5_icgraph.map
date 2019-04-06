@@ -1,0 +1,6 @@
+<map id="CalculatePressureAltitude" name="CalculatePressureAltitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGStandardAtmosphere.html#aceb723bd1ff84e031529921a02d5c788" title="Convert a geopotential altitude to a geometric altitude. " alt="" coords="240,81,379,108"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGStandardAtmosphere.html#a8b6359271548980bcf2b4644c36a0a8a" title="Returns the pressure at a specified altitude in psf. " alt="" coords="465,5,567,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGStandardAtmosphere.html#ab3581d12823ef4d9ac32881ba1afba7f" title="Returns the standard pressure at the specified altitude. " alt="" coords="455,56,577,83"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGStandardAtmosphere.html#a3a0f90cc387367d4aa90bc5855efb482" title="Calculates the density altitude given any temperature or pressure bias. " alt="" coords="427,107,605,133"/>
+</map>
